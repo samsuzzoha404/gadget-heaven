@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import { useLoaderData, useParams } from "react-router-dom";
 import Banner from "../components/Banner";
-import Categories from "../components/categories";
+import Categories from "../components/Categories";
 import ProductCard from "../components/ProductCard";
 import { createContext, useEffect, useState } from "react";
 import { Helmet } from "react-helmet";
