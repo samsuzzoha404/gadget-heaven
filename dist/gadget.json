@@ -1,0 +1,307 @@
+[
+  {
+    "product_id": 1001,
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/fSkp7XW/Samsung-Galaxy-S21.png",
+    "category": "Phones",
+    "price": 799,
+    "description": "Samsung Galaxy S21 with 5G technology, dynamic AMOLED 2X display, and triple-lens camera system.",
+    "specification": [
+      "6.2-inch display",
+      "8GB RAM",
+      "128GB Storage",
+      "4000mAh battery",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 202,
+    "product_title": "Sony Alpha a7 III ",
+    "product_image": "https://i.ibb.co.com/W3fyFG4/Sony-Alpha-a7.png",
+    "category": "Camera",
+    "price": 1999.99,
+    "description": "Sony's versatile full-frame mirrorless camera with impressive low-light performance and fast autofocus.",
+    "specification": [
+      "24.2 MP full-frame sensor",
+      "4K video recording",
+      "693-point phase-detection AF",
+      "Battery life up to 710 shots"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 1002,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/gSYjsSD/i-Phone-14.png",
+    "category": "Phones",
+    "price": 1099,
+    "description": "iPhone 14 Pro with Super Retina XDR display, A15 Bionic chip, and improved camera system.",
+    "specification": [
+      "6.1-inch OLED display",
+      "6GB RAM",
+      "128GB Storage",
+      "12MP dual-camera system",
+      "5G enabled"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 1003,
+    "product_title": "Google Pixel 8",
+    "product_image": "https://i.ibb.co.com/RzgmQcR/Pixel-8-no-background.png",
+    "category": "Phones",
+    "price": 599,
+    "description": "Google Pixel 8 with Tensor G2 chip, enhanced camera features, and adaptive battery.",
+    "specification": [
+      "6.3-inch OLED display",
+      "8GB RAM",
+      "128GB Storage",
+      "50MP camera",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 2001,
+    "product_title": "Asus Creator  X415KA Laptop",
+    "product_image": "https://i.ibb.co.com/cDz0T05/asus-x415k-A-laptop.png",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Asus Creator X415KA with a sleek design, Intel Core i7 processor, and InfinityEdge display for an immersive experience.",
+    "specification": [
+      "13.3-inch FHD display",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Core i7",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3001,
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/jvwFGDX/Apple-Air-Pods-Pro.png",
+    "category": "Gadget",
+    "price": 249,
+    "description": "Apple AirPods Pro with active noise cancellation, adaptive EQ, and transparency mode for high-quality sound.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Transparency mode",
+      "Wireless charging case",
+      "Sweat and water-resistant",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 2002,
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/bBYS4kB/Macbook-pro.png",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "Apple MacBook Air with M2 chip, Retina display, and all-day battery life in a lightweight, fanless design.",
+    "specification": [
+      "13.6-inch Retina display",
+      "8GB RAM",
+      "256GB SSD",
+      "Apple M2 chip",
+      "macOS"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+
+  {
+    "product_id": 5017,
+    "product_title": "Gigabyte Odyssey G3",
+    "product_image": "https://i.ibb.co.com/G9HG2PS/Samsung-Odyssey-G3-24.png",
+    "category": "Monitor",
+    "price": 189.99,
+    "description": "Gigabyte Odyssey G3 Full HD monitor with a fast refresh rate, perfect for gaming.",
+    "Specification": [
+      "1920 x 1080 resolution",
+      "144Hz refresh rate",
+      "1ms response time",
+      "AMD FreeSync technology"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "product_id": 3002,
+    "product_title": "BOYA BY-PM500 Microphone",
+    "product_image": "https://i.ibb.co.com/Hh6nsxM/Boya-microphone.png",
+    "category": "Gadget",
+    "price": 79,
+    "description": "BOYA BY-PM500 USB microphone with cardioid and omnidirectional polar patterns, ideal for streaming, podcasting, and voice recording.",
+    "specification": [
+      "Dual polar patterns: cardioid and omnidirectional",
+      "USB-C output",
+      "Headphone monitoring",
+      "Compatible with Windows, Mac, and Android",
+      "Adjustable desk stand"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 203,
+    "product_title": "Nikon Z50 Mirrorless Camera",
+    "product_image": "https://i.ibb.co.com/kKcr4pb/Nikon-Z50-no-background.png",
+    "category": "Camera",
+    "price": 859.99,
+    "description": "Compact and lightweight mirrorless camera from Nikon, great for beginners and travel photography.",
+    "specification": [
+      "20.9 MP APS-C sensor",
+      "4K UHD video",
+      "Eye-detection AF",
+      "Flip-down touchscreen"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 2004,
+    "product_title": "Acer Aspire 3",
+    "product_image": "https://i.ibb.co.com/n1hk18S/Microsoft-Surface-Laptop.png",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "Acer Aspire 3 with Intel Core i7, touchscreen, and sleek lightweight design.",
+    "specification": [
+      "13.5-inch PixelSense display",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Core i7",
+      "Windows 11"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 3020,
+    "product_title": "Corsair HS60 HAPTIC Headset",
+    "product_image": "https://i.ibb.co.com/vVSXkK8/Corsair-HS60-HAPTIC-no-background.png",
+    "category": "Gadget",
+    "price": 129,
+    "description": "Corsair HS60 HAPTIC gaming headset with haptic bass feedback and comfortable memory foam ear pads.",
+    "specification": [
+      "Haptic bass feedback",
+      "50mm neodymium drivers",
+      "Detachable noise-canceling microphone",
+      "Memory foam ear pads",
+      "USB connection"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+
+  {
+    "product_id": 3010,
+    "product_title": "JBL Flip 6 Speaker",
+    "product_image": "https://i.ibb.co.com/Wg7Rm1X/JBL-Flip-6-Sound-Box.png",
+    "category": "Gadget",
+    "price": 129,
+    "description": "JBL Flip 6 portable Bluetooth speaker with deep bass, waterproof design, and 12-hour playtime for powerful sound on the go.",
+    "specification": [
+      "12 hours of playtime",
+      "IP67 waterproof and dustproof",
+      "Bluetooth 5.1",
+      "Dual passive radiators for deep bass",
+      "JBL PartyBoost for multi-speaker pairing"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 201,
+    "product_title": "Canon EOS R5 Camera",
+    "product_image": "https://i.ibb.co.com/XJzjMWw/Canon-EOS-R5.png",
+    "category": "Camera",
+    "price": 3899.99,
+    "description": "Canon's flagship mirrorless camera offering high-resolution stills and 8K video recording, perfect for professionals.",
+
+    "specification": [
+      "45 MP full-frame CMOS sensor",
+      "8K video recording at 30fps",
+      "Dual Pixel CMOS AF II",
+      "In-body image stabilization"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+
+  {
+    "product_id": 5018,
+    "product_title": "Dell UltraSharp U2720Q",
+    "product_image": "https://i.ibb.co.com/PtQm2FH/Dell-Monitor.png",
+    "category": "Monitor",
+    "price": 549.99,
+    "description": "Dell's premium 4K UHD monitor with vibrant color accuracy, ideal for professional creatives.",
+    "Specification": [
+      "3840 x 2160 resolution",
+      "IPS panel with 99% sRGB coverage",
+      "HDR10 support",
+      "USB-C connectivity"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 1004,
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co.com/7pCwLnV/One-Plus-11-no-background.png",
+    "category": "Phones",
+    "price": 699,
+    "description": "OnePlus 11 with Snapdragon 8 Gen 2, 120Hz Fluid AMOLED display, and Hasselblad triple camera system.",
+    "specification": [
+      "6.7-inch Fluid AMOLED display",
+      "12GB RAM",
+      "256GB Storage",
+      "5000mAh battery",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 5016,
+    "product_title": "LG UltraWide 34WN80C-B",
+    "product_image": "https://i.ibb.co.com/kHPsTdX/LG-Ultra-Wide-34-WN80-C.png",
+    "category": "Monitor",
+    "price": 649.99,
+    "description": "LG's 34-inch curved ultrawide monitor with USB-C, ideal for multitasking and immersive visuals.",
+    "Specification": [
+      "3440 x 1440 resolution",
+      "21:9 aspect ratio",
+      "USB-C with 60W power delivery",
+      "HDR10 support"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 2003,
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/PN5kLrd/HP-Spectre-x360.png",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "HP Spectre x360 with Intel Evo platform, touch screen, and convertible 2-in-1 design.",
+    "specification": [
+      "13.5-inch OLED display",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Core i7",
+      "Windows 11"
+    ],
+    "availability": false,
+    "rating": 4.8
+  }
+]
